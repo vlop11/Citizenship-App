@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Citizenship Test
 //
-//  Created by Valeria Lopez on 7/25/19.
+//  Created by Valeria Lopez
 //  Copyright © 2019 Valeria Lopez. All rights reserved.
 //
 
